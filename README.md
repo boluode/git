@@ -65,11 +65,12 @@ $ git push origin --delete
 $ git branch -dr 
 ```
 
-###3.增加、删除文件
+###3.增加、删除、撤销文件
 增加```$ git add -p```
 
 删除```git rm ```
 
+撤销```git reset```
 ###4.提交
 提交暂存区到仓库区
 ```$ git commit -m [message]```
